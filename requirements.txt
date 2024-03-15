@@ -3,3 +3,7 @@ python-dotenv
 sentry-sdk
 uvicorn
 pydantic
+git+https://github.com/huggingface/transformers
+soundfile
+torch
+moviepy
